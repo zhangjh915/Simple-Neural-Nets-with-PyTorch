@@ -7,7 +7,7 @@ This repository includes Softmax, two-layer NN and simple CNN image classifiers 
 The models.py includes three different models, including Softmax, two-layer NN and simple CNN image classifiers. The train.py trains one of the models with parameter specifying detailed settings. And the cifar10.py is used to download or verify the [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) as the training dataset in this repository.
 
 ## Model Performance:
-The training and validation loss and validation accuracy curves are shown below for the three models.
+The training and validation loss and validation accuracy curves are shown below for the three models in 1 epoch.
 
 ![alt text](/images/softmax.png)
 
