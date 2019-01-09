@@ -1,0 +1,46 @@
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+
+Validation set: Average loss: 96.22, Accuracy: 150/1000 (15.00%)
+
+Train Epoch: 1 [0/49000 (0.00%)]	Train Loss: 10.40  Validation Loss: 96.22  Validation Accuracy: 15.00%
+
+Validation set: Average loss: 78.14, Accuracy: 240/1000 (24.00%)
+
+Train Epoch: 1 [5120/49000 (10.42%)]	Train Loss: 97.16  Validation Loss: 78.14  Validation Accuracy: 24.00%
+
+Validation set: Average loss: 66.30, Accuracy: 256/1000 (25.60%)
+
+Train Epoch: 1 [10240/49000 (20.83%)]	Train Loss: 71.05  Validation Loss: 66.30  Validation Accuracy: 25.60%
+
+Validation set: Average loss: 68.07, Accuracy: 246/1000 (24.60%)
+
+Train Epoch: 1 [15360/49000 (31.25%)]	Train Loss: 67.29  Validation Loss: 68.07  Validation Accuracy: 24.60%
+
+Validation set: Average loss: 88.51, Accuracy: 220/1000 (22.00%)
+
+Train Epoch: 1 [20480/49000 (41.67%)]	Train Loss: 76.68  Validation Loss: 88.51  Validation Accuracy: 22.00%
+
+Validation set: Average loss: 76.86, Accuracy: 205/1000 (20.50%)
+
+Train Epoch: 1 [25600/49000 (52.08%)]	Train Loss: 63.52  Validation Loss: 76.86  Validation Accuracy: 20.50%
+
+Validation set: Average loss: 83.29, Accuracy: 232/1000 (23.20%)
+
+Train Epoch: 1 [30720/49000 (62.50%)]	Train Loss: 65.65  Validation Loss: 83.29  Validation Accuracy: 23.20%
+
+Validation set: Average loss: 48.77, Accuracy: 269/1000 (26.90%)
+
+Train Epoch: 1 [35840/49000 (72.92%)]	Train Loss: 51.18  Validation Loss: 48.77  Validation Accuracy: 26.90%
+
+Validation set: Average loss: 57.94, Accuracy: 250/1000 (25.00%)
+
+Train Epoch: 1 [40960/49000 (83.33%)]	Train Loss: 84.45  Validation Loss: 57.94  Validation Accuracy: 25.00%
+
+Validation set: Average loss: 57.19, Accuracy: 242/1000 (24.20%)
+
+Train Epoch: 1 [46080/49000 (93.75%)]	Train Loss: 67.87  Validation Loss: 57.19  Validation Accuracy: 24.20%
+
+Test set: Average loss: 73.57, Accuracy: 601/2560 (23.48%)
+

@@ -1,0 +1,46 @@
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+
+val set: Average loss: 17.17, Accuracy: 122/1000 (12.20%)
+
+Train Epoch: 1 [0/49000 (0.00%)]	Train Loss: 3.06  Val Loss: 17.17  Val Acc: 12.20%
+
+val set: Average loss: 2.87, Accuracy: 199/1000 (19.90%)
+
+Train Epoch: 1 [5120/49000 (10.42%)]	Train Loss: 3.93  Val Loss: 2.87  Val Acc: 19.90%
+
+val set: Average loss: 1.93, Accuracy: 295/1000 (29.50%)
+
+Train Epoch: 1 [10240/49000 (20.83%)]	Train Loss: 1.94  Val Loss: 1.93  Val Acc: 29.50%
+
+val set: Average loss: 2.01, Accuracy: 330/1000 (33.00%)
+
+Train Epoch: 1 [15360/49000 (31.25%)]	Train Loss: 1.98  Val Loss: 2.01  Val Acc: 33.00%
+
+val set: Average loss: 1.86, Accuracy: 356/1000 (35.60%)
+
+Train Epoch: 1 [20480/49000 (41.67%)]	Train Loss: 1.90  Val Loss: 1.86  Val Acc: 35.60%
+
+val set: Average loss: 1.80, Accuracy: 351/1000 (35.10%)
+
+Train Epoch: 1 [25600/49000 (52.08%)]	Train Loss: 1.80  Val Loss: 1.80  Val Acc: 35.10%
+
+val set: Average loss: 1.76, Accuracy: 366/1000 (36.60%)
+
+Train Epoch: 1 [30720/49000 (62.50%)]	Train Loss: 1.74  Val Loss: 1.76  Val Acc: 36.60%
+
+val set: Average loss: 1.69, Accuracy: 427/1000 (42.70%)
+
+Train Epoch: 1 [35840/49000 (72.92%)]	Train Loss: 1.71  Val Loss: 1.69  Val Acc: 42.70%
+
+val set: Average loss: 1.70, Accuracy: 410/1000 (41.00%)
+
+Train Epoch: 1 [40960/49000 (83.33%)]	Train Loss: 1.62  Val Loss: 1.70  Val Acc: 41.00%
+
+val set: Average loss: 1.74, Accuracy: 381/1000 (38.10%)
+
+Train Epoch: 1 [46080/49000 (93.75%)]	Train Loss: 1.74  Val Loss: 1.74  Val Acc: 38.10%
+
+test set: Average loss: 1.71, Accuracy: 1020/2560 (39.84%)
+
