@@ -2,7 +2,7 @@
 
 python -u train.py \
     --model Softmax \
-    --epochs 1 \
+    --epochs 10 \
     --weight-decay 0.0 \
     --momentum 0.0 \
     --batch-size 512 \
