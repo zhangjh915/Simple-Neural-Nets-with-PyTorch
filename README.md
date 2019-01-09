@@ -17,8 +17,6 @@ The training and validation loss and validation accuracy curves are shown below 
 
 For the test set, the above three models achieve accuracies of 23.48%, 29.90%, 38.10%, respectively with only 1 epoch of training.
 
-is a detailed explanation of [inverted dropout](https://pgaleone.eu/deep-learning/regularization/2017/01/10/anaysis-of-dropout/).
-
 ## Code Usage
 1. If running shell, directly run "softmax.sh"/"twolayernn.sh"/"convnet.sh". The CIFAR-10 dataset will be automatically downloaded into a folder named "data" in the current path if necessary. And the model will be trained for 1 epoch and saved in a ".pt" file and the logs saved in a ".log" file. The curve will appear when the training is finished.
 2. If running the script in IDEs like PyCharm, simply add the parameters before training the model. PyCharm for example, go to Run -> Edit Configurations... -> Parameters, and copy the parameters from the corresponding .sh file in. Then run train.py to train the model or for further debugging.
